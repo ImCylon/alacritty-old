@@ -46,5 +46,4 @@ save_to_clipboard = true
 
 [general]
 import = ["~/.dotfiles/alacritty/themes/catppuccin.toml"]
-# import = ["~/.dotfiles/alacritty/themes/dracula.toml"]
 # import = ["~/.dotfiles/alacritty/themes/colors.toml"]
